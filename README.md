@@ -230,7 +230,7 @@ program make_voice.aleo {
   ```bash
   leo deploy make_voice.aleo
   ```
-  ![deployments]("https://i.ibb.co/Tk736j0/deployment.png")
+  ![deployments](https://i.ibb.co/Tk736j0/deployment.png)
 
 This workshop was a great learning experience in building more complex, state-driven applications on the Aleo Playground.
 
