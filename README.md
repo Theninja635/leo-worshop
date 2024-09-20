@@ -222,7 +222,7 @@ program make_voice.aleo {
   ```
 
   This creates a combined hash that can be used for further operations.
-
+  
 - **Deploying the Program:**
 
   The final deployment step was done using:
@@ -231,6 +231,8 @@ program make_voice.aleo {
   leo deploy make_voice.aleo
   ```
   ![deployments](https://i.ibb.co/Tk736j0/deployment.png)
+  My deployment id are: at1233600h6nvca2yp4sqn6vvnapvckmq2xgn29w5z6v297dkjg3ufq2jj3je, at12jnlf9qd4cr0ldu53h8nvag35sry8jnh3fzj5ctghfxk2evn6v9s339pkg, at1pczp2zqgk7vckashu3ut5xqjwyszgxmywn64x0nlh8p8dwqqyv8sav4qz6
+                       
 
 This workshop was a great learning experience in building more complex, state-driven applications on the Aleo Playground.
 
